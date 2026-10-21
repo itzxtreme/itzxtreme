@@ -1,88 +1,47 @@
 
 <div align="center">
 
-# `⛧ ITZXTREME`
+# ୨୧ itzxtreme ♡
 
-### `BUILDING BEYOND LIMITS.`
+### full-stack web developer 🎀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=600&lines=AI+%26+Automation;Discord+Bot+Developer;Minecraft+Server+Tools;Always+Building+Something+New" alt="Typing animation" />
+building beautiful websites with powerful backends ✧
 
-<br/>
+♡ frontend · backend · databases · creative projects ♡
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D0D0F?style=for-the-badge&logo=github&logoColor=FF3030)](https://github.com/itzxtreme)
+[Portfolio](https://portfolio.itzxtreme.dpdns.org) · [Email](mailto:mohit087sharma@gmail.com)
 
 </div>
 
 ---
 
-## `> WHOAMI`
+### 🎀 about me
 
-```bash
-$ whoami
-itzxtreme
+hii, i'm itzxtreme! ♡
 
-$ current_focus
-AI • Automation • Bot Development
+i build full-stack websites, from cute and polished user interfaces to the backend systems that make everything work.
 
-$ mindset
-Build. Experiment. Improve.
-```
+- 🌷 developing frontend experiences
+- ⚙️ building backend logic and APIs
+- 🗄️ working with databases and server-side systems
+- ✨ turning ideas into complete web applications
 
-I'm a developer interested in building useful tools, experimenting with AI, and creating projects that bring technology and gaming together.
+### ✿ my tech stack
 
-- 🤖 Exploring AI assistants and automation
-- 💻 Building Discord bots and developer tools
-- 🎮 Working on Minecraft server projects
-- 🌌 Creating ideas under the Astral brand
-
----
-
-## `> TECH STACK`
-
-<!-- Keep only technologies you actively use. -->
+<!-- Keep only the technologies you actually use. -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,git,github,vscode&theme=dark" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,mongodb,mysql,postgres,git,github&theme=light" alt="Full-stack development technologies"/>
 </p>
 
----
+### ♡ let's connect
 
-## `> GITHUB ANALYTICS`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=itzxtreme&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=FF3030&icon_color=FF3030&text_color=FFFFFF" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzxtreme&layout=compact&hide_border=true&bg_color=0D0D0F&title_color=FF3030&text_color=FFFFFF" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=itzxtreme&theme=dark&hide_border=true&background=0D0D0F&ring=FF3030&fire=FF3030&currStreakLabel=FF3030" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## `> FEATURED PROJECTS`
-
-🔭 **XTREME** — AI assistant experiments and interactive features.
-
-🤖 **Discord Bots** — Custom bots, automation, and community tools.
-
-🎮 **AstralMC** — Minecraft server development and customization.
-
-Explore my repositories for current projects and source code:
-
-**[→ Browse all repositories](https://github.com/itzxtreme?tab=repositories)**
-
----
-
-## `> CONNECT`
+- 🌐 Portfolio: https://portfolio.itzxtreme.dpdns.org
+- 💌 Email: mohit087sharma@gmail.com
+- 🎮 Discord: ItzXtreme.gg
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-itzxtreme-0D0D0F?style=for-the-badge&logo=github&logoColor=FF3030)](https://github.com/itzxtreme)
-
-**Thanks for visiting my profile.**
-
-`STAY CURIOUS • KEEP BUILDING`
+made with ♡ and lots of creativity 🎀
 
 </div>
