@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ୨୧ itzxtreme ♡
+# ୨୧ Itzxtreme ♡
 
 ### full-stack web developer 🎀
 
