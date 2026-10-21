@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/pink-futuristic-banner.png" width="100%" alt="Pink futuristic itzxtreme banner"/>
+<img src="./pink-futuristic-banner.png" width="100%" alt="Pink futuristic itzxtreme banner"/>
 
 # ୨୧ itzxtreme ♡
 
